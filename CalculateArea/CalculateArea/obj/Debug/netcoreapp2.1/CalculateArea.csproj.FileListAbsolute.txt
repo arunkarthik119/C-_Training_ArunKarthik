@@ -1,0 +1,11 @@
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\bin\Debug\netcoreapp2.1\CalculateArea.deps.json
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\bin\Debug\netcoreapp2.1\CalculateArea.runtimeconfig.json
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\bin\Debug\netcoreapp2.1\CalculateArea.runtimeconfig.dev.json
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\bin\Debug\netcoreapp2.1\CalculateArea.dll
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\bin\Debug\netcoreapp2.1\CalculateArea.pdb
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\obj\Debug\netcoreapp2.1\CalculateArea.csprojAssemblyReference.cache
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\obj\Debug\netcoreapp2.1\CalculateArea.csproj.CoreCompileInputs.cache
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\obj\Debug\netcoreapp2.1\CalculateArea.AssemblyInfoInputs.cache
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\obj\Debug\netcoreapp2.1\CalculateArea.AssemblyInfo.cs
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\obj\Debug\netcoreapp2.1\CalculateArea.dll
+D:\C# training\C-_Training_ArunKarthik\CalculateArea\CalculateArea\obj\Debug\netcoreapp2.1\CalculateArea.pdb
